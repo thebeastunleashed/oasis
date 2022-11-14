@@ -3946,7 +3946,7 @@ __metadata:
     webpack-dev-server: ^3.11.2
     webpack-node-externals: ^3.0.0
     workbox-background-sync: ^6.1.5
-    workbox-broadcast-update: ^6.1.5
+    workbox-broadcast-update: ^6.5.4
     workbox-cacheable-response: ^6.1.5
     workbox-core: ^6.1.5
     workbox-expiration: ^6.1.5
@@ -29169,12 +29169,12 @@ typescript@4.3.5:
   languageName: node
   linkType: hard
 
-"workbox-broadcast-update@npm:^6.1.5":
-  version: 6.1.5
-  resolution: "workbox-broadcast-update@npm:6.1.5"
+"workbox-broadcast-update@npm:^6.5.4":
+  version: 6.5.4
+  resolution: "workbox-broadcast-update@npm:6.5.4"
   dependencies:
-    workbox-core: ^6.1.5
-  checksum: e1567feb17ff3ef087fa8e529a8a63af7e4d7dc14e23e38718e9c7fde748e06b577ce603a0d30c436e5f18c4a0631451f4734e40fd898f2523e62451e7ee066e
+    workbox-core: 6.5.4
+  checksum: 1be3e3b653e485e4ca79acc117feb82ed5d99b80db1f1c6685509f1aeec1f8085e0d797d8cd00e0ed82134c98ac1296f8c95f23e39bb63366781cf53cde2f60b
   languageName: node
   linkType: hard
 
@@ -29237,6 +29237,13 @@ typescript@4.3.5:
   dependencies:
     workbox-core: ^6.1.5
   checksum: feeff4a1ec51fc9a6f8ca9f45357d22dd4202d5f6229713e14bad843eda5821142c088628acbe083b0c200d675151a62dd49d96ec9c2f94e48bc106e1162f162
+  languageName: node
+  linkType: hard
+
+"workbox-core@npm:6.5.4":
+  version: 6.5.4
+  resolution: "workbox-core@npm:6.5.4"
+  checksum: 004e1b8c148f924915333fd99f51c7b2fc27888577e45fc4d3d2cff102431ef66f61282abe8f40780903c27951e8afddcd52b327d2b88fd6d9137ecba09ff93c
   languageName: node
   linkType: hard
 
