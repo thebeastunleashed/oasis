@@ -12,7 +12,7 @@
     "build:linux": "yarn build && electron-builder --linux"
   },
   "devDependencies": {
-    "electron": "^13.1.4",
+    "electron": "^18.3.7",
     "pinst": "^2.1.6",
     "typescript": "4.3.5"
   },
