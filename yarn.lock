@@ -3832,7 +3832,7 @@ __metadata:
     "@types/uuid": ^8.3.0
     apollo-server-express: ^2.25.2
     aws-sdk: ^2.939.0
-    chalk: ^4.1.1
+    chalk: ^5.2.0
     class-validator: ^0.13.1
     concurrently: ^6.2.0
     connect-redis: ^6.0.0
@@ -3880,7 +3880,7 @@ __metadata:
     "@types/node-emoji": ^1.8.1
     "@types/rimraf": ^3.0.0
     "@types/yargs": ^17.0.2
-    chalk: ^4.1.1
+    chalk: ^5.2.0
     graphql-request: ^3.4.0
     jest: ^27.0.5
     jest-json-schema: ^5.0.0
@@ -4048,7 +4048,7 @@ __metadata:
     "@types/rimraf": ^3.0.0
     autoprefixer: ^10.2.6
     babel-loader: ^8.2.2
-    chalk: ^4.1.1
+    chalk: ^5.2.0
     cypress: ^7.6.0
     esbuild-loader: ^2.13.1
     express: ^4.17.1
@@ -9832,6 +9832,13 @@ __metadata:
     ansi-styles: ^4.1.0
     supports-color: ^7.1.0
   checksum: 445c12db7aeed0046500a1e4184d31209a77d165654c885a789c41c8598a6a95bd2392180987cac572c967b93a2a730dda778bb7f87fa06ca63fd8592f8cc59f
+  languageName: node
+  linkType: hard
+
+"chalk@npm:^5.2.0":
+  version: 5.2.0
+  resolution: "chalk@npm:5.2.0"
+  checksum: ac9958ecfaf2e1c69899b0a4772229c2cf676dee329fcfb640ca4681a1e5636f6121c8f91c92aa95b3ac35bfd78ee1307cd010265ecfccf93a57177424d04800
   languageName: node
   linkType: hard
 
