@@ -3940,7 +3940,7 @@ __metadata:
     tailwindcss: ^2.2.4
     ts-loader: ^9.2.3
     typescript: 4.3.5
-    web-vitals: ^2.0.1
+    web-vitals: ^3.3.1
     webpack: ^5.40.0
     webpack-cli: ^4.7.2
     webpack-dev-server: ^3.11.2
@@ -28602,10 +28602,10 @@ typescript@4.3.5:
   languageName: node
   linkType: hard
 
-"web-vitals@npm:^2.0.1":
-  version: 2.1.0
-  resolution: "web-vitals@npm:2.1.0"
-  checksum: 0a588d5bf19d1fe44abe124617f1ec4acb345d6d2feeb78380a488184ba77d2a3e5c3ee6337e45fd92d1827729fd29e27afdbd955d3f0d1fa2decadd68994e1b
+"web-vitals@npm:^3.3.1":
+  version: 3.3.1
+  resolution: "web-vitals@npm:3.3.1"
+  checksum: 5ce2c29ed192e9526451e9aebe87cf063e8985c92fbe76ac503a658dffa43cdb87a8f0cfdecc46dfdc50c8da477845b4ac58e3fb2a345fb7e93078a2e6dd847f
   languageName: node
   linkType: hard
 
