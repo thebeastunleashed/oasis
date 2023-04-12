@@ -3833,7 +3833,7 @@ __metadata:
     apollo-server-express: ^2.25.2
     aws-sdk: ^2.939.0
     chalk: ^5.2.0
-    class-validator: ^0.13.1
+    class-validator: ^0.14.0
     concurrently: ^6.2.0
     connect-redis: ^6.0.0
     cross-fetch: ^3.1.4
@@ -6716,10 +6716,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/validator@npm:^13.1.3":
-  version: 13.6.3
-  resolution: "@types/validator@npm:13.6.3"
-  checksum: e842ff4f6fbf1128ba36d6b89227639d55ab739fc21c877c4db82d485862eda7c8da244aad7a38a02a45dc61b335c638911bfbf969954379c5e2264d03a9aa71
+"@types/validator@npm:^13.7.10":
+  version: 13.7.14
+  resolution: "@types/validator@npm:13.7.14"
+  checksum: 904785debe4a0fd91935c268cee6c9b1f07d4134cb1db98132d3106dcb33e79789ea65172eb23708b3f687f89cb76a38e50214a1654740c9fee8e747b4ec374b
   languageName: node
   linkType: hard
 
@@ -10061,14 +10061,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"class-validator@npm:^0.13.1":
-  version: 0.13.1
-  resolution: "class-validator@npm:0.13.1"
+"class-validator@npm:^0.14.0":
+  version: 0.14.0
+  resolution: "class-validator@npm:0.14.0"
   dependencies:
-    "@types/validator": ^13.1.3
-    libphonenumber-js: ^1.9.7
-    validator: ^13.5.2
-  checksum: 09a7d83213ac40b2c57502790701277b323f0977d0e1d5597c1a5a0990a8c9ee04ab75b8e2395a39063c0ee9dd196e1cb900a420ff5808b8a1923de2b8c705fe
+    "@types/validator": ^13.7.10
+    libphonenumber-js: ^1.10.14
+    validator: ^13.7.0
+  checksum: 5faf11bef14d9013e299ca152f7d2b95fcadf8290fe8681e54c6b509cd5df8d8b43999970ad18e8ee359bebdbb143cab37e212c793adf28cca09a717bb9eb7a2
   languageName: node
   linkType: hard
 
@@ -18599,10 +18599,10 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"libphonenumber-js@npm:^1.9.7":
-  version: 1.9.21
-  resolution: "libphonenumber-js@npm:1.9.21"
-  checksum: 71ed0507782c76cbde47725d14c10acfa247bf279908dd428cc60a22e616f4fc24b641352bdbd6c9b5d689bc579c6213005030573d216bedb9844ecb4e0b7857
+"libphonenumber-js@npm:^1.10.14":
+  version: 1.10.26
+  resolution: "libphonenumber-js@npm:1.10.26"
+  checksum: 403642844e052b31afecf4bf483eda6ec5ee745c61070e8495686622ab129be74b1deb017fb624fe68dd4dc2131a3fdb746836d4a406dfe5505e73416012bacb
   languageName: node
   linkType: hard
 
@@ -28394,10 +28394,10 @@ typescript@4.3.5:
   languageName: node
   linkType: hard
 
-"validator@npm:^13.5.2":
-  version: 13.6.0
-  resolution: "validator@npm:13.6.0"
-  checksum: 6ae43bfd47ae7e3ed5803c6fff949c5cbabb4d248af38fce0ccafb637c85db8c0c5cee2a91817242865de4f5970d61de809f0975910ec78282307ffd23249466
+"validator@npm:^13.7.0":
+  version: 13.9.0
+  resolution: "validator@npm:13.9.0"
+  checksum: f05e869519b6b9dd9fd480c1119caf21be619d4430f65233dc2eb3d1c61fc68b4eda1045f1d600a1a3639eabf1b1a534975b0f909808b60d1b11c0d2ad0dec66
   languageName: node
   linkType: hard
 
